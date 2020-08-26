@@ -27,8 +27,6 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
 
-// Text added for testing purposes
-
 public class SendAndReceive {
 
 	static Session session;
